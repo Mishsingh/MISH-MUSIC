@@ -7,7 +7,7 @@
         "telegram bot",
         "pyrogram"
     ],
-    "repository": "https://github.com/Mishsingh/MISH-MUSIC",
+    "repository": "https://github.com/XdityaHalder/SankiMusic",",",
     "success_url": "https://t.me/FRIENDS_CHATTING_ROOM",",",",
     "env": {
         "API_ID": {
