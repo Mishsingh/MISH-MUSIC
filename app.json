@@ -6,8 +6,8 @@
         "musicbot",
         "telegram bot",
         "pyrogram"
-    ],https://github.com/Mishsingh/MISH-MUSIC
-    "repository": "",
+    ],
+    "repository": "https://github.com/Mishsingh/MISH-MUSIC",
     "success_url": "https://t.me/FRIENDS_CHATTING_ROOM",",",",
     "env": {
         "API_ID": {
